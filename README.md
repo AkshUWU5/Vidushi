@@ -9,7 +9,7 @@ Can be used in various settings, including customer service, education, and heal
 🚀 Getting Started
 To use Vidushi Chatbot, follow these steps:
 
-Clone the repository: git clone https://github.com/your-username/vidushi-chatbot.git
+Clone the repository
 Install dependencies: npm install
 Create an .env file and add your API keys and other environment variables
 Start the server: npm start
